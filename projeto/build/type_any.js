@@ -1,0 +1,12 @@
+"use strict";
+let precoProduto;
+precoProduto = true;
+precoProduto = 343.42;
+precoProduto = "Sujeito Programador";
+let nota1;
+let nota2;
+nota1 = 10;
+nota2 = 20;
+nota1 = "15";
+console.log(precoProduto);
+console.log(nota1 + nota2);
